@@ -1,87 +1,109 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mehdi+Hasan!;Flutter+Developer+from+Bangladesh🚀;Love+Clean+Code+and+Architecture!&center=true&size=30">
-  </a>
-</h1>
-
-<h3 align="center">🚀 Passionate Flutter & Full Stack Developer</h3>
+<h1 align="center">Hey there 👋, I'm Mehdi Hasan</h1>
+<h3 align="center">🚀 Flutter & Full Stack Developer | Passionate about Clean Code & Scalable Architecture</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehdisparktech&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisparktech" />
+  <a href="https://github.com/mehdisparktech">
+    <img src="https://komarev.com/ghpvc/?username=mehdisparktech&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisparktech" />
+  </a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **Cabwire** – A real-time ride-sharing app  
-- 🌱 Learning advanced **Flutter**, **GetX**, **Clean Architecture**, and **Node.js**
-- 👨‍💻 Actively contributing to Flutter & Backend projects
-- 📫 Reach me at: **mehdisparktech@gmail.com**
-- 💬 Ask me about **Flutter, Dart, GetX, Firebase, WebSocket, Node.js**
-- ⚡ Fun fact: I debug for fun and design pixel-perfect UIs 🎨
+- 🔭 Currently building **Cabwire** – A real-time ride-sharing app using Flutter, WebSockets & Clean Architecture  
+- 🛠️ Focused on performance-optimized apps with maintainable architecture (GetX + DI + Presenter Pattern)  
+- 🌱 Learning advanced backend architecture with **Node.js**, **MongoDB**, and microservices  
+- 💬 Ask me about **Flutter, Dart, Firebase, GetX, WebSocket, Node.js**
+- ✨ Building real-world SaaS and scalable mobile solutions
+- 📫 Reach me: **mehdisparktech@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### 🚀 Featured Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/mehdisparktech/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://facebook.com/mehdisparktech" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="mailto:mehdisparktech@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="30" />
-  </a>
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [**Cabwire**](https://github.com/mehdisparktech) | Flutter, Firebase, GetX, WebSocket | A real-time ride-sharing app with live tracking, push notifications, and clean architecture |
+| [**Tournament Manager**](https://github.com/mehdisparktech) | Flutter, Hive, Clean Arch | A platform to host and manage both solo/team-based tournaments with responsive UI |
+| [**Event Booking App**](https://github.com/mehdisparktech) | Flutter, REST API | Allows users to explore, book, and manage events seamlessly |
+
+---
+
+### 🏅 Achievements
+
+- 🏆 Built and deployed 10+ cross-platform Flutter apps  
+- 🛠️ Created custom architecture based on Clean Arch + DI + Presenters  
+- 🧠 Designed real-time socket communication with WebSocket for cab dispatching  
+- 💼 Worked on live production apps like **Padel Now** (available on Play Store)
+
+---
+
+### 📜 Certifications
+
+- ✅ Flutter Advanced Course – Udemy  
+- ✅ Firebase for Production – Google Dev Program  
+- ✅ REST API & Node.js Essentials – LearnCodeWithMe  
+- 🥇 Problem Solving (DSA) – HackerRank 3 Star  
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-3D3D3D?style=for-the-badge&logo=flutter&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-### 🧰 Languages and Tools
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/getx.svg" alt="GetX" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" alt="Figma" width="40" height="40"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehdisparktech&theme=radical)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdisparktech&show_icons=true&locale=en&layout=compact" alt="mehdisparktech" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdisparktech&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisparktech&theme=radical" width="45%" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdisparktech&show_icons=true&locale=en" alt="mehdisparktech" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisparktech&" alt="mehdisparktech" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdisparktech&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
 
-### ✍️ Dev Quote
+### 🔥 GitHub Contribution Graph
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisparktech&theme=react-dark&area=true&hide_border=true"/>
+</p>
 
 ---
 
-### 🚀 Contribution Graph
+### 🌐 Connect With Me
 
-[![Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehdisparktech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://linkedin.com/in/mehdisparktech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mehdisparktech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/mehdisparktech" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
