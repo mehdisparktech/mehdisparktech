@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Mehdi Hasan</h1>
-<h3 align="center">🚀 Flutter & Full Stack Developer | Passionate about Clean Code & Scalable Architecture</h3>
+<h3 align="center">🚀 Flutter & Full Stack Developer | Clean Architecture Enthusiast | Scalable App Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/mehdisparktech">
@@ -13,12 +13,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **Cabwire** – A real-time ride-sharing app using Flutter, WebSockets & Clean Architecture  
-- 🛠️ Focused on performance-optimized apps with maintainable architecture (GetX + DI + Presenter Pattern)  
-- 🌱 Learning advanced backend architecture with **Node.js**, **MongoDB**, and microservices  
-- 💬 Ask me about **Flutter, Dart, Firebase, GetX, WebSocket, Node.js**
-- ✨ Building real-world SaaS and scalable mobile solutions
-- 📫 Reach me: **mehdisparktech@gmail.com**
+- 🔭 Currently building **Cabwire** — real-time ride-sharing app (Flutter + WebSockets + Clean Architecture)
+- 🛠️ Specialized in performance-optimized, scalable app architectures  
+  **(GetX + Dependency Injection + Presenter Pattern + Clean Arch)**
+- 🌱 Learning advanced backend development with **Node.js**, **MongoDB**, and microservices
+- 💬 Ask me about: **Flutter, Dart, Firebase, GetX, REST API, WebSocket, Node.js**
+- ✨ Passionate about real-world SaaS & scalable mobile solutions  
+- 📫 Reach me at **mehdisparktech@gmail.com**
 
 ---
 
@@ -26,27 +27,27 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [**Cabwire**](https://github.com/mehdisparktech) | Flutter, Firebase, GetX, WebSocket | A real-time ride-sharing app with live tracking, push notifications, and clean architecture |
-| [**Tournament Manager**](https://github.com/mehdisparktech) | Flutter, Hive, Clean Arch | A platform to host and manage both solo/team-based tournaments with responsive UI |
-| [**Event Booking App**](https://github.com/mehdisparktech) | Flutter, REST API | Allows users to explore, book, and manage events seamlessly |
+| [**Cabwire**](https://github.com/mehdisparktech) | Flutter • Firebase • GetX • WebSocket | Real-time ride-sharing with live location, sockets & clean architecture |
+| [**Tournament Manager**](https://github.com/mehdisparktech) | Flutter • Hive • Clean Arch | Manage solo/team tournaments with offline DB & responsive UI |
+| [**Event Booking App**](https://github.com/mehdisparktech) | Flutter • REST API | Browse, book & manage events seamlessly |
 
 ---
 
 ### 🏅 Achievements
 
-- 🏆 Built and deployed 10+ cross-platform Flutter apps  
-- 🛠️ Created custom architecture based on Clean Arch + DI + Presenters  
-- 🧠 Designed real-time socket communication with WebSocket for cab dispatching  
-- 💼 Worked on live production apps like **Padel Now** (available on Play Store)
+- 🚀 Built & deployed **10+ production-grade Flutter apps**
+- 🛠️ Designed custom Clean Architecture with DI + Presenters  
+- ⚡ Implemented real-time WebSocket communication for ride dispatching  
+- 📱 Worked on live apps like **Padel Now** (available on Play Store)
 
 ---
 
 ### 📜 Certifications
 
-- ✅ Flutter Advanced Course – Udemy  
-- ✅ Firebase for Production – Google Dev Program  
-- ✅ REST API & Node.js Essentials – LearnCodeWithMe  
-- 🥇 Problem Solving (DSA) – HackerRank 3 Star  
+- 🎓 Flutter Advanced Course – Udemy  
+- 🔥 Firebase for Production – Google Dev Program  
+- 🌐 REST API & Node.js Essentials – LCWM  
+- 🥇 Problem Solving (DSA) – HackerRank 3★  
 
 ---
 
@@ -72,13 +73,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mehdisparktech&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisparktech&theme=radical" width="45%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdisparktech&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
 
-### 🔥 GitHub Contribution Graph
+### 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisparktech&theme=react-dark&area=true&hide_border=true"/>
