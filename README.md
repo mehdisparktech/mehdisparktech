@@ -1,150 +1,167 @@
 <h1 align="center">Hi 👋, I'm Mehdi Hasan</h1>
-<h3 align="center">🚀 Flutter & Full Stack Developer | Clean Architecture | Scalable App Engineer</h3>
+<h3 align="center">
+🚀 Senior Flutter Engineer | Clean Architecture Evangelist | Scalable Systems Builder
+</h3>
 
 <p align="center">
   <a href="https://github.com/mehdisparktech">
     <img src="https://komarev.com/ghpvc/?username=mehdisparktech&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
+  <a href="https://github.com/mehdisparktech?tab=followers">
+    <img src="https://img.shields.io/github/followers/mehdisparktech?label=Followers&style=flat" />
+  </a>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="380"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me (2026)
 
-- 🚕 Currently building **Cabwire** — Real-time ride-sharing system (Sockets, Live Tracking, Clean Arch)
-- 🧱 Architecting scalable apps using **Clean Architecture + GetX + DI + Presenter Pattern**
-- 🌱 Exploring backend engineering with **Node.js**, **MongoDB**, **Microservices**
-- 🧠 Specialized in building high-performance, production-ready Flutter apps
-- 💬 Ask me about: _Flutter, Dart, Firebase, GetX, WebSocket, REST APIs, Node.js_
+I’m a **Flutter-first full-stack engineer** focused on building **production-grade, scalable, real-time applications**.
+
+- 🚕 Building **Cabwire** — real-time ride-sharing system (Live tracking, WebSockets, Clean Arch)
+- 🧱 Designing **enterprise-level architectures** using Clean Architecture, DI & Presenter Pattern
+- 🔥 Strong focus on **performance, scalability & maintainability**
+- 🌱 Backend experience with **Node.js, MongoDB, REST & Microservices**
+- 🧠 Specialized in **real-time systems, caching, offline-first apps**
+- 💬 Ask me about: _Flutter, Dart, Clean Architecture, GetX, Firebase, WebSockets_
 - 📬 Email: **mehdisparktech@gmail.com**
 
 ---
 
-# 🚀 Featured Projects (Premium Showcase)
+## 🚀 Featured Projects (2026 Showcase)
 
-### 🔥 **Cabwire – Real-Time Ride Sharing App**
-#### `Flutter • Firebase • GetX • WebSocket • Clean Architecture`
-- Live driver tracking on map (real-time)
-- Ride request broadcasting via WebSocket
-- Push notifications + booking flow
-- Highly scalable presenter-driven architecture  
-🔗 **Repo:** https://github.com/mehdisparktech/cabwire  
+### 🔥 Cabwire — Real-Time Ride Sharing Platform
+**Tech:** `Flutter • Firebase • GetX • WebSocket • Clean Architecture`
 
----
+- 🚗 Live driver tracking (Google Maps)
+- 📡 Ride broadcast system via WebSocket
+- 🔔 Push notifications + booking lifecycle
+- 🧱 Presenter-driven scalable architecture
 
-### 🏆 **Tournament Manager – Offline/Online Tournament Platform**
-#### `Flutter • Hive DB • Clean Architecture`
-- Create & manage solo/team tournaments  
-- Offline-first architecture (Hive + caching)  
-- Responsive UI & analytics  
-🔗 **Repo:** https://github.com/mehdisparktech/tournament-manager  
+🔗 Repo → https://github.com/mehdisparktech/cabwire
 
 ---
 
-### 🎟️ **Event Booking App**
-#### `Flutter • REST API • Provider`
-- Explore, book & manage events  
-- Smooth UX + modern UI  
-🔗 Repo: https://github.com/mehdisparktech/event-booking-app  
+### 🏆 Tournament Manager — Offline-First Platform
+**Tech:** `Flutter • Hive • Clean Architecture`
+
+- 🏟 Create solo/team tournaments
+- 💾 Offline-first architecture with caching
+- 📊 Match analytics & standings
+
+🔗 Repo → https://github.com/mehdisparktech/tournament-manager
 
 ---
 
-### 🎧 **Live Audio Player + Background Playback**
-#### `Flutter • audio_service • GetX`
-- Background audio  
-- Lock screen controls  
-- Queue support  
+### 🎟️ Event Booking App
+**Tech:** `Flutter • REST API • Provider`
 
-🔗 Repo: Coming Soon
+- 🎫 Browse, book & manage events
+- 🎨 Modern UI & smooth UX
 
----
-
-### 📰 **News Aggregator + Bookmark App**
-#### `Flutter • REST API • Hive • Clean Architecture`
-- Bookmark system  
-- Offline caching  
-- Category-based news feed  
-
-🔗 Repo: Coming Soon  
+🔗 Repo → https://github.com/mehdisparktech/event-booking-app
 
 ---
 
-# 🏅 Achievements
+### 🎧 Live Audio Player (Background Playback)
+**Tech:** `Flutter • audio_service • GetX`
 
-- 🚀 Delivered **10+ Flutter apps** (production-ready)
-- 🛠 Built custom Clean Architecture based on DI + Presenters + Repository Pattern
-- ⚡ Designed WebSocket-based real-time communication system
-- 📱 Worked on **Padel Now** (Play Store live project)
-- 🧪 Experience with scalable API integration & advanced caching
+- 🔊 Background playback
+- 🔒 Lock-screen controls
+- 📃 Queue & playlist support
+
+🔗 Repo → Coming Soon
 
 ---
 
-# 📜 Certifications
+### 📰 News Aggregator + Bookmark System
+**Tech:** `Flutter • REST API • Hive • Clean Architecture`
 
-- 🎓 Flutter Advanced – Udemy  
-- 🔥 Firebase for Production – Google Dev Program  
+- 🔖 Bookmark & save offline
+- ⚡ Fast caching
+- 🗂 Category-based feed
+
+🔗 Repo → Coming Soon
+
+---
+
+## 🏅 Career Highlights
+
+- 🚀 Delivered **10+ production Flutter apps**
+- 🧱 Built **custom Clean Architecture framework**
+- ⚡ Designed **WebSocket-based real-time systems**
+- 📱 Worked on **Play Store live projects**
+- 🧪 Expert in API integration, caching & performance tuning
+
+---
+
+## 📜 Certifications
+
+- 🎓 Flutter Advanced — Udemy  
+- 🔥 Firebase for Production — Google Dev Program  
 - 🌐 Node.js & REST API Essentials  
-- 🥇 Problem Solving (DSA) – HackerRank (3★)
+- 🥇 Problem Solving (DSA) — HackerRank (3★)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
   <img src="https://img.shields.io/badge/GetX-3D3D3D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hive-1C1E24?style=for-the-badge&logo=hive&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Hive-1C1E24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdisparktech&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisparktech&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdisparktech&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisparktech&theme=radical" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdisparktech&layout=compact&theme=radical" width="50%" />
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisparktech&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdisparktech&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🔥 Contribution Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehdisparktech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisparktech&theme=react-dark&area=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mehdisparktech">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:mehdisparktech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:mehdisparktech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://facebook.com/mehdisparktech" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://facebook.com/mehdisparktech">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
 </p>
 
 ---
 
-# ✍️ Developer Quote  
+## ✍️ Developer Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
