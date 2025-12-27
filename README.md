@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mehdi Hasan</h1>
-<h3 align="center">🚀 Flutter & Full Stack Developer | Clean Architecture | Scalable App Engineer</h3>
+<h3 align="center">🚀 Senior Flutter Engineer | Clean Architecture Evangelist | Scalable Systems Builder</h3>
 
 <p align="center">
   <a href="https://github.com/mehdisparktech">
     <img src="https://komarev.com/ghpvc/?username=mehdisparktech&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/mehdisparktech?tab=followers">
+    <img src="https://img.shields.io/github/followers/mehdisparktech?label=Followers&style=flat" />
   </a>
 </p>
 
@@ -12,6 +15,9 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 👨‍💻 About Me
+
+I’m a **Flutter-first full-stack engineer** focused on building **production-grade, scalable, real-time applications**.
+
 
 - 🚕 Currently building **Cabwire** — Real-time ride-sharing system (Sockets, Live Tracking, Clean Arch)
 - 🧱 Architecting scalable apps using **Clean Architecture + GetX + DI + Presenter Pattern**
@@ -22,34 +28,7 @@
 
 ---
 
-# 🗂️ My GitHub Repositories (2026)
-
-Here are the repositories I’m actively working on / maintaining:
-
-### 🔧 Flutter & Dart Projects
-- **cabwire** — Real-time ride sharing app (Flutter, WebSocket, Clean Arch) :contentReference[oaicite:1]{index=1}  
-- **flutter-boilerplate** — Starter boilerplate for scalable Flutter apps :contentReference[oaicite:2]{index=2}  
-- **miraa_social_messaging** — Social messaging app (Flutter) :contentReference[oaicite:3]{index=3}  
-- **embeyi** — (Dart/Flutter project) :contentReference[oaicite:4]{index=4}  
-- **flutterApp** — General Flutter application :contentReference[oaicite:5]{index=5}  
-- **watch_store** — E-commerce style store app (Dart) :contentReference[oaicite:6]{index=6}  
-- **zasulehry_job_seeker** — Job seeker app (Dart) :contentReference[oaicite:7]{index=7}  
-- **the_entrapreneu** — (Dart project) :contentReference[oaicite:8]{index=8}  
-
-### 📱 Client & Mobile Apps
-- **haircutmen_app** — Salon / service provider app (Flutter) :contentReference[oaicite:9]{index=9}  
-- **haircutmen_user_app** — Customer app for HaircutMen service :contentReference[oaicite:10]{index=10}  
-- **farming** — (Flutter / Dart project) :contentReference[oaicite:11]{index=11}  
-
-### ⚙️ Other
-- **mehdisparktech** — GitHub profile configuration repo (GitHub config, stats, Readme) :contentReference[oaicite:12]{index=12}  
-- **tcovert** — (Dart) :contentReference[oaicite:13]{index=13}  
-
-> ℹ️ **Note:** Your profile also includes a fork of the Flutter framework — this is a fork and not an active personal project. :contentReference[oaicite:14]{index=14}
-
----
-
-# 🚀 Featured Projects
+# 🚀 Featured Projects (Premium Showcase)
 
 ### 🔥 **Cabwire – Real-Time Ride Sharing App**
 #### `Flutter • Firebase • GetX • WebSocket • Clean Architecture`
@@ -57,13 +36,63 @@ Here are the repositories I’m actively working on / maintaining:
 - Ride request broadcasting via WebSocket
 - Push notifications + booking flow
 - Highly scalable presenter-driven architecture  
-🔗 **Repo:** https://github.com/mehdisparktech/cabwire
+🔗 **Repo:** https://github.com/mehdisparktech/cabwire  
 
-### 📦 **Flutter Boilerplate**
-#### `Flutter • Clean Architecture • Scalable`
-- Clean setup for new Flutter apps
-- Ready integrations for state mgmt, API, theming  
-🔗 **Repo:** https://github.com/mehdisparktech/flutter-boilerplate
+---
+
+### 🏆 **Tournament Manager – Offline/Online Tournament Platform**
+#### `Flutter • Hive DB • Clean Architecture`
+- Create & manage solo/team tournaments  
+- Offline-first architecture (Hive + caching)  
+- Responsive UI & analytics  
+🔗 **Repo:** https://github.com/mehdisparktech/tournament-manager  
+
+---
+
+### 🎟️ **Event Booking App**
+#### `Flutter • REST API • Provider`
+- Explore, book & manage events  
+- Smooth UX + modern UI  
+🔗 Repo: https://github.com/mehdisparktech/event-booking-app  
+
+---
+
+### 🎧 **Live Audio Player + Background Playback**
+#### `Flutter • audio_service • GetX`
+- Background audio  
+- Lock screen controls  
+- Queue support  
+
+🔗 Repo: Coming Soon
+
+---
+
+### 📰 **News Aggregator + Bookmark App**
+#### `Flutter • REST API • Hive • Clean Architecture`
+- Bookmark system  
+- Offline caching  
+- Category-based news feed  
+
+🔗 Repo: Coming Soon  
+
+---
+
+# 🏅 Achievements
+
+- 🚀 Delivered **10+ Flutter apps** (production-ready)
+- 🛠 Built custom Clean Architecture based on DI + Presenters + Repository Pattern
+- ⚡ Designed WebSocket-based real-time communication system
+- 📱 Worked on **Padel Now** (Play Store live project)
+- 🧪 Experience with scalable API integration & advanced caching
+
+---
+
+# 📜 Certifications
+
+- 🎓 Flutter Advanced – Udemy  
+- 🔥 Firebase for Production – Google Dev Program  
+- 🌐 Node.js & REST API Essentials  
+- 🥇 Problem Solving (DSA) – HackerRank (3★)
 
 ---
 
@@ -80,6 +109,27 @@ Here are the repositories I’m actively working on / maintaining:
   <img src="https://img.shields.io/badge/Hive-1C1E24?style=for-the-badge&logo=hive&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdisparktech&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisparktech&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdisparktech&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisparktech&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
